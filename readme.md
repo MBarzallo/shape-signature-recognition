@@ -30,7 +30,6 @@ El sistema permite al usuario dibujar una figura en pantalla. A partir de este d
 │   ├── src/main/assets/dataset/ # Dataset de entrenamiento (imágenes)
 │   └── src/main/res/            # Recursos Android
 ├── VisionP3.ipynb               # Cuaderno Jupyter (Parte 1 - análisis teórico/experimental)
-├── Informe/                     # Informe en LaTeX (PDF final)
 └── README.md
 ```
 
