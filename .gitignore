@@ -1,0 +1,77 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+####################################
+# Android / Gradle
+####################################
+.gradle/
+build/
+*/build/
+
+####################################
+# Android Studio
+####################################
+.idea/
+*.iml
+*.ipr
+*.iws
+local.properties
+
+####################################
+# Kotlin / Java
+####################################
+*.class
+*.log
+
+####################################
+# CMake / NDK
+####################################
+.cxx/
+externalNativeBuild/
+obj/
+libs/
+
+####################################
+# OpenCV binaries (NO versionar)
+####################################
+sdk/
+opencv/
+OpenCV-android-sdk/
+
+####################################
+# Generated APK / AAB
+####################################
+*.apk
+*.aab
+
+####################################
+# OS files
+####################################
+.DS_Store
+Thumbs.db
+
+####################################
+# External storage outputs (dibujos guardados)
+####################################
+shapes/
+*.png
+
+####################################
+# Temporary / cache
+####################################
+*.swp
+*.tmp
+*.bak
